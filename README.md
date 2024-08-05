@@ -1,3 +1,3 @@
-# Aula 01
+# AULAS
 
-Exercícios presentes na apostila "01_apostila_dart_introducao.pdf".
+Repositório das aulas de multiplataforma.
